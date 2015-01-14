@@ -1,0 +1,6 @@
+#head_bgi{
+  background-image: url("../image/blog.jpg");
+  width: 80%;
+  margin-left: 10%;
+  height: 200px;
+}
